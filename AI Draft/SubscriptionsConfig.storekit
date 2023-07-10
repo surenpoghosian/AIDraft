@@ -1,0 +1,52 @@
+{
+  "identifier" : "F16721D0",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "03C4CA46",
+      "localizations" : [
+
+      ],
+      "name" : "Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "7641443D",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Become a pro AI content creator",
+              "displayName" : "Pro AI Content Creator",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.xetpyrc.ai_draft.pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly Pro ",
+          "subscriptionGroupID" : "03C4CA46",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
